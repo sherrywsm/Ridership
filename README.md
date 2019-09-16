@@ -1,2 +1,4 @@
 # Ridership
 Time series models to forecast transportation ridership
+
+I am working for a transportation company in a megacity who are currently thinking of enhancing the city rail network. The current passenger pressure is increasing by the day. Therefore, they plan to add few more trains in line with the expected demand so that commuting becomes pleasant for riders. I have monthly ridership data from Jan 2005 - March 2018. The planning department also requested me to study the general rider trend pattern and the seasonal fluctuation pattern so that they can deploy more trains in those months when ridership is high and less trains when the ridership is low. The planning department requests to provide them with a 6 months forecast for ridership and help them formulate a strategy to optimize average number of trains they must deploy at a given period.
